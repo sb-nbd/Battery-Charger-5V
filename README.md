@@ -4,8 +4,6 @@
 
 ### Li-Ion Battery Charging from 5V Source
 
-**Author:** Cebanu Vitalie  
-
 ---
 
 ## 📑 Table of Contents
